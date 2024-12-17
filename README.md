@@ -1,5 +1,5 @@
 ## Hello! 
-## I'm Github newbie
+## 
 
 <!--
 **nabina1395/nabina1395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
